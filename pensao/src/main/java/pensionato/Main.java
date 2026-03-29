@@ -30,5 +30,6 @@ public class Main {
                 System.out.println(vect_Room[i].getRoom() + ": " + vect_Room[i].getName() + ", " + vect_Room[i].getEmail());
             }
         }
+        sc.close();
     }
 }
